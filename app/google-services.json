@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231370311975",
+    "firebase_url": "https://studentforum-ff50f.firebaseio.com",
+    "project_id": "studentforum-ff50f",
+    "storage_bucket": "studentforum-ff50f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231370311975:android:271e7a615b1c6f84",
+        "android_client_info": {
+          "package_name": "bd.gov.fci.studentforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231370311975-lr4g1ebb6vsuu2mgu9fman548vvvgnuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bd.gov.fci.studentforum",
+            "certificate_hash": "4ae633892d6879d5c76155ecce82dd38f9a70f05"
+          }
+        },
+        {
+          "client_id": "231370311975-gf7us9t4ahqn9vbm6977923kio01q2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ44nQSn5YSka68Lfh8WKji2SDdWSdjis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231370311975-gf7us9t4ahqn9vbm6977923kio01q2of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

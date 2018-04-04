@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home_id"
+      android:icon="@mipmap/home"
+        android:title="@string/bottom_home_text" />
+    <item
+        android:id="@+id/bottom_notivfication_id"
+        android:icon="@mipmap/notification"
+        android:title="@string/bottom_notification" />
+    <item
+        android:id="@+id/bottom_account_id"
+        android:icon="@mipmap/account"
+        android:title="@string/bottom_account" />
+</menu>

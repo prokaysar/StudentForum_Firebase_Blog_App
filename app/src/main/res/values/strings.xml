@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Student Forum</string>
+    <string name="image_description">TODO</string>
+    <string name="user_email">Your Email</string>
+    <string name="user_password">Your Password</string>
+    <string name="user_password2">Conform Password</string>
+
+    <string name="login_button">Login to Account</string>
+    <string name="register_button">Need a Account</string>
+    <string name="seach_title">Search</string>
+    <string name="register_account">Register Account</string>
+    <string name="have_account">Alredy Have an Account</string>
+    <string name="user_name">User name</string>
+    <string name="save_info">Save Account Settings</string>
+    <string name="post_description">Add New Post Description here</string>
+    <string name="add_post">Post Now</string>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification">Notification</string>
+    <string name="bottom_account">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
